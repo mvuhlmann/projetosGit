@@ -2,6 +2,6 @@ package TesteConf;
 
 public class Principal {
 	public static void main(String[] args) {
-		System.out.println("Funcionaa!!!!!!!");
+		System.out.println("Funcionouu!!!!!!!");
 	}
 }
